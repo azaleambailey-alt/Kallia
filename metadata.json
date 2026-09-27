@@ -1,0 +1,8 @@
+{
+  "name": "LuminaMap - Smart Projection Mapping Hub for IoT & MadMapper",
+  "description": "Smart IoT-driven projection mapping controller integrating baby monitors, smart doorbells, and security systems with MadMapper via OSC, featuring real-time art synthesis and an AI lighting mood designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
